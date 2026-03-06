@@ -21,6 +21,12 @@ A real-time, dual-hand gesture recognition system for robot/vehicle control. Pow
 
 ---
 
+## Block Diagram
+
+![Block Diagram](block_diagram.svg)
+
+---
+
 ## 🖐️ Gesture Reference
 
 | Gesture | Hand | Detection Rule | Confidence | Command |
